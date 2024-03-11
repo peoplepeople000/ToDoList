@@ -1,24 +1,7 @@
-# myproject
+# To Do List
 
-## Project setup
-```
-npm install
-```
+## Introduction
+This is a to do list that I created step by step by referencing the MDN website.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Tool
+Vue
